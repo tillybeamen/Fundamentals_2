@@ -1,0 +1,15 @@
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\bin\Debug\net7.0\Fundamentals_2.exe
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\bin\Debug\net7.0\Fundamentals_2.deps.json
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\bin\Debug\net7.0\Fundamentals_2.runtimeconfig.json
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\bin\Debug\net7.0\Fundamentals_2.dll
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\bin\Debug\net7.0\Fundamentals_2.pdb
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\obj\Debug\net7.0\Fundamentals_2.csproj.AssemblyReference.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\obj\Debug\net7.0\Fundamentals_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\obj\Debug\net7.0\Fundamentals_2.AssemblyInfoInputs.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\obj\Debug\net7.0\Fundamentals_2.AssemblyInfo.cs
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\obj\Debug\net7.0\Fundamentals_2.csproj.CoreCompileInputs.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\obj\Debug\net7.0\Fundamentals_2.dll
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\obj\Debug\net7.0\refint\Fundamentals_2.dll
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\obj\Debug\net7.0\Fundamentals_2.pdb
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\obj\Debug\net7.0\Fundamentals_2.genruntimeconfig.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Fundamentals_2\obj\Debug\net7.0\ref\Fundamentals_2.dll
