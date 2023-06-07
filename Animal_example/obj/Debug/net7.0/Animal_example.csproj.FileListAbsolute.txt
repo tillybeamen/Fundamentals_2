@@ -1,0 +1,15 @@
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\obj\Debug\net7.0\Animal_example.csproj.AssemblyReference.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\obj\Debug\net7.0\Animal_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\obj\Debug\net7.0\Animal_example.AssemblyInfoInputs.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\obj\Debug\net7.0\Animal_example.AssemblyInfo.cs
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\obj\Debug\net7.0\Animal_example.csproj.CoreCompileInputs.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\bin\Debug\net7.0\Animal_example.exe
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\bin\Debug\net7.0\Animal_example.deps.json
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\bin\Debug\net7.0\Animal_example.runtimeconfig.json
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\bin\Debug\net7.0\Animal_example.dll
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\bin\Debug\net7.0\Animal_example.pdb
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\obj\Debug\net7.0\Animal_example.dll
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\obj\Debug\net7.0\refint\Animal_example.dll
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\obj\Debug\net7.0\Animal_example.pdb
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\obj\Debug\net7.0\Animal_example.genruntimeconfig.cache
+C:\Users\tillp\OneDrive\Desktop\Coding_Documents\Coding_Dojo\CSharp\Fundamentals\Animal_example\obj\Debug\net7.0\ref\Animal_example.dll
